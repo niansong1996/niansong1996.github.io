@@ -8,27 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a master's student in the 
+Hi! I am a Ph.D. student in the 
+[Computer Science Department](https://cpsc.yale.edu){:target="_blank"}
+at 
+[Yale University](https://yale.edu){:target="_blank"}
+woring with
+[Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev){:target="_blank"}
+in the 
+[LILY](https://yale-lily.github.io){:target="_blank"}
+lab. 
+I obtained my M.S. in CS degree from 
 [School of Computer Science](https://cs.cmu.edu){:target="_blank"}
 at 
 [Carnegie Mellon University](https://cmu.edu){:target="_blank"}
 working with 
 [Prof. Graham Neubig](http://phontron.com/index.php){:target="_blank"}
-on **semantic parsing**.
+on semantic parsing.
 Previously, I worked on the topic of machine learning for software engineering with 
-[Prof. Ming Li](http://www.lamda.nju.edu.cn/lim){:target="_blank"}
- and interned at
-[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/){:target="_blank"}
-, mentored by 
-[Senior Research Shi Han](https://www.microsoft.com/en-us/research/people/shihan/){:target="_blank"}.
+[Prof. Ming Li](http://www.lamda.nju.edu.cn/lim){:target="_blank"} in my undergraduate.
 
 Research Interest
 ------
 My research goal is to build a system that can <u> learn to understand human language </u> and respond to satisfy our demands. 
-Motivated by this goal, my focus of research areas are natural language processing (NLP) and machine learning (ML), especially:
- * **Grounded Semantic Parsing/Code Generation/Program Synthesis**
- * **(Inter)active Learning**
- * **Learning from weak supervision**
+Motivated by this goal, my focus of research area is natural language understanding (NLU), especially:
+ * **Semantic Parsing/Code Generation/Program Synthesis**
+ * **Question Answering/Reading Comprehension**
  
 Research Papers
 ------
@@ -47,14 +51,17 @@ Research Papers
 
 Education
 ------
+* <em> Ph.D. in Computer Science </em>, [Yale University](https://yale.edu){:target="_blank"}, 2020.8-
 * <em> M.S. in Computer Science </em>, [Carnegie Mellon University](https://cs.cmu.edu){:target="_blank"}, 2018.8-2019.12
 * <em> B.Eng. in Software Engineering </em>, [Nanjing University](https://nju.edu.cn){:target="_blank"}, 2014.8-2018.6
 
 Experience
 ------
-* Research Intern, Microsoft Research Asia, 2017.6-2017.12
-* Exchange Student, University of California at Berkeley, 2017.1-2017.5
+* Research Intern, Allen Institute for AI, Summer 2020. Host: Pradeep Dasigi and Matt Gardner
+* Research Assistant, Institute of Software Research, Carnegie Mellon University, Spring 2020. Host: Prof. Claire Le Goues
+* Research Intern, Microsoft Research Asia, Summer+Fall 2017. Host: Shi Han
+* Exchange Student, University of California at Berkeley, Spring 2017
 
 Miscellaneous
 ------
-* I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley and Pittsburgh.
+* I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley, Pittsburgh, and most recently, New Haven.
