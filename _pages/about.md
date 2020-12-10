@@ -12,7 +12,7 @@ Hi! I am a Ph.D. student in the
 [Computer Science Department](https://cpsc.yale.edu){:target="_blank"}
 at 
 [Yale University](https://yale.edu){:target="_blank"}
-woring with
+working with
 [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev){:target="_blank"}
 in the 
 [LILY](https://yale-lily.github.io){:target="_blank"}
