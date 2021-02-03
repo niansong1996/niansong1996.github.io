@@ -43,6 +43,7 @@ Research Papers
     [\[code\]](https://github.com/niansong1996/wassp){:target="_blank"}
 
 <u> Machine Learning for Software Engineering (ML4SE) </u>
+* <u>Ansong Ni*</u>, Daniel Ramos*, Aidan Yang, Inˆes Lynce, Vasco Manquinho, Ruben Martins, Claire Le Goues. "SOAR: A Synthesis Approachfor Data Science API Refactoring,” <em>To appear in 43th International Conference on Software Engineering (ICSE'21). </em>
 * <u>Ansong Ni</u>, Ming Li. "ACONA: Active online model adaptation for predicting continuous integration build failures,” <em>in 40th International Conference on Software Engineering (ICSE'18) Poster Track.</em> 
     [\[bib\]](https://github.com/niansong1996/testweb/raw/master/files/icse18.bib){:target="_blank"}
     [\[poster\]](./files/icse18poster.pdf){:target="_blank"}
