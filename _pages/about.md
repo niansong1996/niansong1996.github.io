@@ -46,7 +46,7 @@ Publications
     [\[code\]](https://github.com/Yale-LILY/SummerTime)
 
 * <u>Ansong Ni*</u>, Daniel Ramos\*, Aidan Yang, Ines Lynce, Vasco Manquinho, Ruben Martins, and Claire Le Goues  
-**SOAR: A Synthesis Approachfor Data Science API Refactoring**  
+**SOAR: A Synthesis Approach for Data Science API Refactoring**  
 The 43th International Conference on Software Engineering (ICSE'21)  
     [\[arxiv\]](https://arxiv.org/abs/2102.06726)
     [\[code\]](https://github.com/danieltrt/SOAR)
@@ -86,5 +86,6 @@ Experience
 
 Miscellaneous
 ------
+* My first name can be pronounce as-is: *[An-Song]*, last name is like *[Nee]*.
 * I love soccer and I am a Barcelona and Messi fan. Sadly, Messi left Barca in 2021.
 * I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley, Pittsburgh, Houston, and most recently, New Haven.
