@@ -17,11 +17,12 @@ I worked as a research intern at [Microsoft Research Redmond](https://www.micros
 
 Research Interest
 ------
-I am generally interesting in natural language process and machine learning. My long-term research goal is to build a system that can <u>be programmed and instructed through natural language</u> and respond to satisfy our demands. 
+I am generally interested in natural language processing and machine learning. My long-term research goal is to build a system that can <u>understand human's intention and parse it into machine-executable form</u>. 
 Motivated by this goal, I am mainly interested in the following topics:
  * **Semantic Parsing \| Code Generation \| Program Synthesis**
- * **Question Answering \| Reading Comprehension**
- * **Dialogue System \| Text Generation**
+ * **Question Answering \| Reading Comprehension \| Logical Reasoning**
+ * **Neural-Symbolic Learning \| Reinforcement Learning**
+
  
 Publications
 ------
