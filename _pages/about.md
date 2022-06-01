@@ -27,7 +27,12 @@ Motivated by this goal, I am mainly interested in the following topics (in order
 Publications
 ------
 (\* denotes equal contribution)  
-**<u>Selected Papers</u>**
+**<u>Selected Papers</u>**  
+* <u>Ansong Ni</u>, Jeevana Priya Inala, Chenglong Wang, Oleksandr Polozov, Christopher Meek, Dragomir Radev, and Jianfeng Gao  
+**Learning from Self-Sampled Correct and Partially-Correct Programs**  
+Preprint 2022 (arxiv'22)   
+    [\[arxiv\]](https://arxiv.org/abs/2205.14318)     
+
 * <u>Ansong Ni</u>, Matt Gardner, and Pradeep Dasigi  
 **Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization**  
 The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21)  
@@ -48,11 +53,21 @@ The 34th AAAI Conference on Artificial Intelligence (AAAI'20)
     [\[arxiv\]](http://arxiv.org/abs/1911.12986)
     [\[code\]](https://github.com/niansong1996/wassp)
 
-**<u>Full List</u>**
+**<u>Full List</u>**  
+* <u>Ansong Ni</u>, Jeevana Priya Inala, Chenglong Wang, Oleksandr Polozov, Christopher Meek, Dragomir Radev, and Jianfeng Gao  
+**Learning from Self-Sampled Correct and Partially-Correct Programs**  
+Preprint 2022 (arxiv'22)    
+    [\[arxiv\]](https://arxiv.org/abs/2205.14318)   
+
+* Yixin Liu, <u>Ansong Ni</u>, Linyong Nan, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, Dragomir Radev  
+**Leveraging Locality in Abstractive Text Summarization**    
+Preprint 2022 (arxiv'22)  
+    [\[arxiv\]](https://arxiv.org/abs/2205.12476)   
+
 * Tianbao Xie\*, Chen Henry Wu\*,..., <u>Ansong Ni</u>,..., Rui Zhang, Noah A. Smith, Luke Zettlemoyer, and Tao Yu  
 **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models**  
 Preprint 2022 (arxiv'22)  
-    [\[arxiv\]](https://arxiv.org/abs/2110.0816://arxiv.org/abs/2201.05966)   
+    [\[arxiv\]](https://arxiv.org/abs/2201.05966)   
 
 * Ziming Mao\*, Chen Henry Wu\*, <u>Ansong Ni</u>, Yusen Zhang, Rui Zhang, Tao Yu, Budhaditya Deb, Chenguang Zhu, Ahmed H. Awadallah, and Dragomir Radev  
 **DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization**  
