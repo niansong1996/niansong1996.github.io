@@ -25,10 +25,17 @@ Publications
 ------
 (\* denotes equal contribution)  
 **<u>Selected Papers</u>**  
+* <u>Ansong Ni</u>, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, and Xi Victoria Lin  
+**LEVER: Learning to Verify Language-to-Code Generation with Execution**    
+Preprint 2023, (arxiv'23)  
+    [\[arxiv\]](https://arxiv.org/abs/2302.08468)
+    [\[code\]](https://github.com/niansong1996/lever)  
+
 * <u>Ansong Ni</u>, Jeevana Priya Inala, Chenglong Wang, Oleksandr Polozov, Christopher Meek, Dragomir Radev, and Jianfeng Gao   
 **Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions**    
 The 2023 International Conference on Learning Representations (ICLR'23)  
-    [\[arxiv\]](https://arxiv.org/abs/2205.14318)     
+    [\[arxiv\]](https://arxiv.org/abs/2205.14318)
+    [\[code\]](https://github.com/microsoft/TraceCodegen)
 
 * Zhangir Azerbayev, <u>Ansong Ni</u>, Hailey Schoelkopf, and Dragomir Radev  
 **Explicit Knowledge Transfer for Weakly-Supervised Code Generation**   
@@ -38,7 +45,9 @@ Preprint 2022, (arxiv'22)
 * Tianbao Xie\*, Chen Henry Wu\*,..., <u>Ansong Ni</u>,..., Rui Zhang, Noah A. Smith, Luke Zettlemoyer, and Tao Yu  
 **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models**  
 The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP'22)  
-    [\[arxiv\]](https://arxiv.org/abs/2201.05966)   
+    [\[arxiv\]](https://arxiv.org/abs/2201.05966)
+    [\[website\]](https://unifiedskg.com/)
+    [\[code\]](https://github.com/HKUNLP/UnifiedSKG)  
 
 * <u>Ansong Ni</u>, Matt Gardner, and Pradeep Dasigi  
 **Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization**  
@@ -56,7 +65,6 @@ The 43th International Conference on Software Engineering (ICSE'21)
 * <u>Ansong Ni</u>, Pengcheng Yin, and Graham Neubig   
 **Merging Weak and Active Supervision for Semantic Parsing**   
 The 34th AAAI Conference on Artificial Intelligence (AAAI'20)   
-    [\[bib\]](https://github.com/niansong1996/testweb/raw/master/files/aaai20.bib)
     [\[arxiv\]](http://arxiv.org/abs/1911.12986)
     [\[code\]](https://github.com/niansong1996/wassp)
 
