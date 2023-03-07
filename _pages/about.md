@@ -39,7 +39,7 @@ The 2023 International Conference on Learning Representations (ICLR'23)
 
 * Zhangir Azerbayev, <u>Ansong Ni</u>, Hailey Schoelkopf, and Dragomir Radev  
 **Explicit Knowledge Transfer for Weakly-Supervised Code Generation**   
-Preprint 2022, (arxiv'22)  
+Deep Learning For Code (DL4C) Workshop @ ICLR'23  
     [\[arxiv\]](https://arxiv.org/abs/2211.16740)     
 
 * Tianbao Xie\*, Chen Henry Wu\*,..., <u>Ansong Ni</u>,..., Rui Zhang, Noah A. Smith, Luke Zettlemoyer, and Tao Yu  
