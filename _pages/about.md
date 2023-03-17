@@ -110,7 +110,7 @@ Education
 Miscellaneous
 ------
 * My first name can be pronounce as-is: *[An-Song]*, last name is like *[Nee]*.
-* I know how to say "I don't speak <this language>" in eight different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi), very handy, you should know them too. Credit to my friends who are the best language teachers.
+* I know how to say "I don't speak [this language]" in eight different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi), very handy, you should know them too. Credit to my friends who are the best language teachers.
 * My paper was once retweeted by Yann LeCun ([link](https://twitter.com/ylecun/status/1628383670921732098?s=20)).
 * I love soccer and I am a Barcelona and Messi fan. I don't remember how Barca did in UCL 2018-2022 and don't remind me. My favorite games are: 
   * 2015 UCL final: Barca 3-1 Juventus
