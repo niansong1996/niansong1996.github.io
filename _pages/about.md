@@ -23,7 +23,8 @@ Motivated by this goal, I am mainly interested in topics as program synthesis, s
 Selected Publications
 ------
 (\* denotes equal contribution)  
-**<u>For a full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4IA1clAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Ansong-Ni/33981736).</u>**  
+**For a full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4IA1clAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Ansong-Ni/33981736).**  
+
 * <u>Ansong Ni</u>, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, and Xi Victoria Lin  
 **LEVER: Learning to Verify Language-to-Code Generation with Execution**    
 Preprint 2023, (arxiv'23)  
@@ -82,18 +83,23 @@ Professional Services
   * ACL 2023
   * NeurIPS 2022
   * EMNLP 2022
-  * ACL Rolling Reviews (ARR) 2021-
+  * ACL Rolling Reviews (ARR) 2021-2022
   * DL4C Workshop @ ICLR 2023
   * SUKI Workshop @ NAACL 2022
   * IntEx-SemPar Workshop @ EMNLP 2020
 
 Work Experience
 ------
-* **Meta AI** --FAIR NLP Group, Research Intern, Summer 2022. Hosts: [Victoria Lin](http://victorialin.net/) and [Sida Wang](http://www.sidaw.xyz/) 
-* **Microsoft Research** --Deep Learning Group, Research Intern Summer+Fall 2021. Host: [Alex Polozov](https://alexpolozov.com) and [Chris Meek](https://www.microsoft.com/en-us/research/people/meek/), [Chenglong Wang](https://chenglongwang.org/) and [Jeevana Priya Inala](https://jinala.github.io/)
-* **Allen Institute for AI** --AllenNLP Team, Research Intern, Summer 2020. Host: [Pradeep Dasigi](https://pdasigi.github.io/) and [Matt Gardner](https://matt-gardner.github.io/)
-* **Carnegie Mellon University** --Institute of Software Research, Research Assistant, Fall 2020. Host: [Claire Le Goues](https://clairelegoues.com/)
-* **Microsoft Research Asia** --Software Analytics Group, Research Intern, Summer+Fall 2017. Host: [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/)
+* **Meta AI** -- FAIR NLP Group, Summer 2022
+    Research Intern. Hosts: [Victoria Lin](http://victorialin.net/) and [Sida Wang](http://www.sidaw.xyz/) 
+* **Microsoft Research** -- Deep Learning Group,  Summer+Fall 2021
+    Research Intern. Hosts: [Alex Polozov](https://alexpolozov.com) and [Chris Meek](https://www.microsoft.com/en-us/research/people/meek/), [Chenglong Wang](https://chenglongwang.org/) and [Jeevana Priya Inala](https://jinala.github.io/)
+* **Allen Institute for AI** -- AllenNLP Team, Research Intern, Summer 2020
+    Research Intern. Hosts: [Pradeep Dasigi](https://pdasigi.github.io/) and [Matt Gardner](https://matt-gardner.github.io/)
+* **Carnegie Mellon University** -- Institute of Software Research, Fall 2020 
+    Research Assistant. Host: [Claire Le Goues](https://clairelegoues.com/)
+* **Microsoft Research Asia** -- Software Analytics Group, Summer+Fall 2017
+    Research Intern. Host: [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/)
 
 Education
 ------
@@ -105,6 +111,9 @@ Miscellaneous
 ------
 * My first name can be pronounce as-is: *[An-Song]*, last name is like *[Nee]*.
 * I know how to say "I don't speak <this language>" in eight different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi), very handy, you should know them too. Credit to my friends who are the best language teachers.
-* My paper was once retweeted by [Yann LeCun](https://twitter.com/ylecun/status/1628383670921732098?s=20).
-* I love soccer and I am a Barcelona and Messi fan. 
+* My paper was once retweeted by Yann LeCun ([link](https://twitter.com/ylecun/status/1628383670921732098?s=20)).
+* I love soccer and I am a Barcelona and Messi fan. I don't remember how Barca did in UCL 2018-2022 and don't remind me. My favorite games are: 
+  * 2015 UCL final: Barca 3-1 Juventus
+  * 2017 UCL round of 16: Barca 6-1 PSG (6-5 on agg.)
+  * 2022 WC final: Argentina 3-3 France (4-2 in pen.)
 * I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley, Pittsburgh, Houston, New Haven, and Menlo Park.
