@@ -17,14 +17,13 @@ I worked as a research intern at [Meta AI](https://www.facebook.com/MetaAI/) (Su
 
 Research Interest
 ------
-I am generally interested in natural language processing and machine learning. My long-term research goal is to build a system that can <u>understand human's intention and parse it into machine-executable form</u>. 
+I am generally interested in natural language processing and machine learning. My long-term research goal is to build a system that can <u>understand user intent and parse it into machine-executable form</u>. 
 Motivated by this goal, I am mainly interested in topics as program synthesis, semantic parsing, and neuro-symbolic methods. You can know more by referring to the publication list below. 
-
  
-Publications
+Selected Publications
 ------
 (\* denotes equal contribution)  
-**<u>Selected Papers</u>**  
+**<u>For a full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4IA1clAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Ansong-Ni/33981736).</u>**  
 * <u>Ansong Ni</u>, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, and Xi Victoria Lin  
 **LEVER: Learning to Verify Language-to-Code Generation with Execution**    
 Preprint 2023, (arxiv'23)  
@@ -68,8 +67,33 @@ The 34th AAAI Conference on Artificial Intelligence (AAAI'20)
     [\[arxiv\]](http://arxiv.org/abs/1911.12986)
     [\[code\]](https://github.com/niansong1996/wassp)
 
-**<u>Full List</u>**  
-Please refer to my [Google Scholar](https://scholar.google.com/citations?user=4IA1clAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Ansong-Ni/33981736) pages.
+Talks and Presentations
+------
+* **Enhancing Language Models for Program Synthesis using Execution**, Mar 2023, Invited Talk @ MIT CSAIL   
+    [\[slides\]](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_MIT_Talk.pdf)
+    [\[recordings\]](https://t.co/pKMiHR7OXd)
+* **Learning from Self-Sampled Correct and Partially-Correct Programs**, June 2022, Paper Presentation @ Meta AI Reading Group  
+* **Merging Weak and Active Supervision for Semantic Parsing**, Feb 2020, Paper Presentation @ AAAI Conference  
+
+Professional Services
+------
+* **Program Committee/Reviewer** 
+  * ICML 2023
+  * ACL 2023
+  * NeurIPS 2022
+  * EMNLP 2022
+  * ACL Rolling Reviews (ARR) 2021-
+  * DL4C Workshop @ ICLR 2023
+  * SUKI Workshop @ NAACL 2022
+  * IntEx-SemPar Workshop @ EMNLP 2020
+
+Work Experience
+------
+* **Meta AI** --FAIR NLP Group, Research Intern, Summer 2022. Hosts: [Victoria Lin](http://victorialin.net/) and [Sida Wang](http://www.sidaw.xyz/) 
+* **Microsoft Research** --Deep Learning Group, Research Intern Summer+Fall 2021. Host: [Alex Polozov](https://alexpolozov.com) and [Chris Meek](https://www.microsoft.com/en-us/research/people/meek/), [Chenglong Wang](https://chenglongwang.org/) and [Jeevana Priya Inala](https://jinala.github.io/)
+* **Allen Institute for AI** --AllenNLP Team, Research Intern, Summer 2020. Host: [Pradeep Dasigi](https://pdasigi.github.io/) and [Matt Gardner](https://matt-gardner.github.io/)
+* **Carnegie Mellon University** --Institute of Software Research, Research Assistant, Fall 2020. Host: [Claire Le Goues](https://clairelegoues.com/)
+* **Microsoft Research Asia** --Software Analytics Group, Research Intern, Summer+Fall 2017. Host: [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/)
 
 Education
 ------
@@ -77,17 +101,10 @@ Education
 * **M.S. in Computer Science**, [Carnegie Mellon University](https://cs.cmu.edu), 2018.8-2019.12
 * **B.Eng. in Software Engineering**, [Nanjing University](https://www.nju.edu.cn), 2014.8-2018.6
 
-Work Experience
-------
-* Summer 2022, Research Intern, **Meta AI, FAIR NLP Group**. Host: [Victoria Lin](http://victorialin.net/) and [Sida Wang](http://www.sidaw.xyz/) 
-* Fall 2021 + Spring 2022, Part-time Research Collaborator, **Microsoft Research Redmond, Deep Learning Group**. Host: [Chenglong Wang](https://chenglongwang.org/) and [Jeevana Priya Inala](https://jinala.github.io/) 
-* Summer 2021, Research Intern, **Microsoft Research Redmond, Deep Learning Group**. Host: [Alex Polozov](https://alexpolozov.com) and [Chris Meek](https://www.microsoft.com/en-us/research/people/meek/)
-* Summer 2020, Research Intern, **Allen Institute for AI (AI2), AllenNLP Team**. Host: [Pradeep Dasigi](https://pdasigi.github.io/) and [Matt Gardner](https://matt-gardner.github.io/)
-* Spring 2020, Research Assistant, **Carnegie Mellon University, Institute of Software Research**. Host: [Claire Le Goues](https://clairelegoues.com/)
-* Summer, Fall 2017, Research Intern, **Microsoft Research Asia, Software Analytics Group**. Host: [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/)
-
 Miscellaneous
 ------
 * My first name can be pronounce as-is: *[An-Song]*, last name is like *[Nee]*.
+* I know how to say "I don't speak <this language>" in eight different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi), very handy, you should know them too. Credit to my friends who are the best language teachers.
+* My paper was once retweeted by [Yann LeCun](https://twitter.com/ylecun/status/1628383670921732098?s=20).
 * I love soccer and I am a Barcelona and Messi fan. 
-* I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley, Pittsburgh, Houston, and most recently, New Haven.
+* I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley, Pittsburgh, Houston, New Haven, and Menlo Park.
