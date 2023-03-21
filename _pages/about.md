@@ -71,11 +71,10 @@ The 34th AAAI Conference on Artificial Intelligence (AAAI'20)
 Talks and Presentations
 ------
 * **Enhancing Language Models for Program Synthesis using Execution**, Mar 2023, Invited Talk @ MIT CSAIL   
-# https://www.csail.mit.edu/event/enhancing-language-models-program-synthesis-using-execution
     [\[slides\]](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_MIT_Talk.pdf)
     [\[recordings\]](https://t.co/pKMiHR7OXd)
 * **Learning from Self-Sampled Correct and Partially-Correct Programs**, June 2022, Paper Presentation @ Meta AI Reading Group  
-* **Merging Weak and Active Supervision for Semantic Parsing**, Feb 2020, Paper Presentation @ AAAI Conference  
+* **Merging Weak and Active Supervision for Semantic Parsing**, Feb 2020, Oral Paper Presentation @ AAAI Conference  
 
 Professional Services
 ------
@@ -94,7 +93,7 @@ Work Experience
 * **Meta AI** -- FAIR NLP Group, Summer 2022  
     Research Intern. Hosts: [Victoria Lin](http://victorialin.net/) and [Sida Wang](http://www.sidaw.xyz/) 
 * **Microsoft Research** -- Deep Learning Group,  Summer+Fall 2021  
-    Research Intern. Hosts: [Alex Polozov](https://alexpolozov.com) and [Chris Meek](https://www.microsoft.com/en-us/research/people/meek/), [Chenglong Wang](https://chenglongwang.org/) and [Jeevana Priya Inala](https://jinala.github.io/)
+    Research Intern. Hosts: [Alex Polozov](https://alexpolozov.com), [Chris Meek](https://www.microsoft.com/en-us/research/people/meek/), [Chenglong Wang](https://chenglongwang.org/) and [Jeevana Priya Inala](https://jinala.github.io/)
 * **Allen Institute for AI** -- AllenNLP Team, Research Intern, Summer 2020  
     Research Intern. Hosts: [Pradeep Dasigi](https://pdasigi.github.io/) and [Matt Gardner](https://matt-gardner.github.io/)
 * **Carnegie Mellon University** -- Institute of Software Research, Fall 2020   
