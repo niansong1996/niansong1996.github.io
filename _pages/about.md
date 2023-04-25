@@ -27,7 +27,7 @@ Selected Publications
 
 * <u>Ansong Ni</u>, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, and Xi Victoria Lin  
 **LEVER: Learning to Verify Language-to-Code Generation with Execution**    
-Preprint 2023, (arxiv'23)  
+The 2023 International Conference on Machine Learning (ICML'23)  
     [\[arxiv\]](https://arxiv.org/abs/2302.08468)
     [\[code\]](https://github.com/niansong1996/lever)  
 
@@ -70,6 +70,9 @@ The 34th AAAI Conference on Artificial Intelligence (AAAI'20)
 
 Talks and Presentations
 ------
+* **Enhancing Language Models for Program Synthesis using Execution**, Apr 2023, Invited Talk @ UT Austin TAUR Lab  
+* **Enhancing Language Models for Program Synthesis using Execution**, Mar 2023, Invited Talk @ HKUST CSE
+    [\[recordings\]](https://hkust.zoom.us/rec/share/cjX9cs20nS7Tx6Hs140RMutst4lA7OTgL-YeNwkPrnHlqpfnPjeOTZFcbCNtlSsF.r3DyXZTBoCGGHXyR)
 * **Enhancing Language Models for Program Synthesis using Execution**, Mar 2023, Invited Talk @ MIT CSAIL   
     [\[slides\]](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_MIT_Talk.pdf)
     [\[recordings\]](https://t.co/pKMiHR7OXd)
@@ -81,7 +84,7 @@ Professional Services
 * **Program Committee/Reviewer** 
   * ICML 2023
   * ACL 2023
-  * NeurIPS 2022
+  * NeurIPS 2022, 2023
   * EMNLP 2022
   * ACL Rolling Reviews (ARR) 2021-2022
   * DL4C Workshop @ ICLR 2023
