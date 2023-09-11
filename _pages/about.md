@@ -13,15 +13,22 @@ About Me
 Hi! I am **Ansong Ni (倪安松)**, a final-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu) working with [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
 Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu) and B.Eng. from [Nanjing University](https:ww.//nju.edu.cn) in China.
 
-I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [Allen Institute for AI (AI2)](https://allenai.org) (Summer 2020), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017).
+I worked as a research intern at **[Google DeepMind](https://www.deepmind.com/)** (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), **[Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group)** (Summer 2021), **[Allen Institute for AI (AI2)](https://allenai.org)** (Summer 2020), **[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)** (Summer, Fall 2017).
 
 **I will be on the job market in Fall 2023 for industrial research labs & startups.**
 
 Research Interest
 ------
 My current research focus is **code generation using large language models (LLMs)**. More specifically, 
-I am intrigued by the abilities / applications enabled by LLMs trained on code, such as *procedure understanding and reasoning ([ICLR'23](https://arxiv.org/abs/2205.14318))*, *AI-assisted software development (ICSE'21, MSR'17)*, *tool use and robot control*. 
-I am also excited by the various learning problems posted by code LLMs, such as *learning from execution feedback (ICLR'23, ICML'23)*, *neuro-symbolic learning (ICLR'23)*, *(inter-)active learning (AAAI'20)*, *Transfer Learning (DL4C'23, ICML'23)*, *Multi-task Learning (EMNLP'22)*, etc.   
+I am intrigued by the abilities / applications enabled by LLMs trained on code, such as:
+* Procedure understanding and reasoning ([ICLR'23](https://arxiv.org/abs/2205.14318))
+* AI-assisted software development (ICSE'21, MSR'17)
+* Tool use and robot control 
+
+I am also excited by the various learning problems posted by code LLMs, such as: 
+* Learning from execution feedback (ICLR'23, ICML'23) 
+* Neuro-symbolic learning (ICLR'23)
+* (inter-)active learning (AAAI'20), Transfer Learning (DL4C'23, ICML'23), Multi-task Learning (EMNLP'22)*
 
 Previously, I have also done research in more traditional NLP tasks, such as question answering (EMNLP'21) and text summarization (EMNLP'21, ACL'22, EMNLP'22). I also led the development of [SummerTime](https://github.com/Yale-LILY/SummerTime) (230+ stars) at Yale.
 
@@ -129,9 +136,8 @@ Education
 Miscellaneous
 ------
 * My first name can be pronounce as-is: *[An-Song]*, last name is like *[Nee]*.
-* I was (and always will be) a student of the late [Dragomir Radev](http://www.cs.yale.edu/homes/radev), [here](https://x.com/AnsongNi/status/1641661325624352771?s=20) is my tribute to him.
+* A [tribute](https://x.com/AnsongNi/status/1641661325624352771?s=20) to my late advisor Drago.
 * I know how to say "I don't speak [this language]" in 9 different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi, Hebrew). Very handy, maybe you should know them too.
-[//]: # "* My paper was once retweeted by Yann LeCun: [(link to tweet)](https://twitter.com/ylecun/status/1628383670921732098?s=20)."
 * I love soccer and I am a Barcelona and Messi fan. I don't remember how Barca did in UCL 2018-2022 and don't remind me. My favorite games are: 
   * 2015 UCL final: Barca 3-1 Juventus
   * 2017 UCL round of 16: Barca 6-1 PSG (6-5 on agg.)
