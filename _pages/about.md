@@ -129,7 +129,7 @@ Work Experience
 
 Education
 ------
-* **Ph.D. in Computer Science**, [Yale University](https://yale.edu), 2020.8 - Present
+* **Ph.D. in Computer Science**, [Yale University](https://yale.edu), 2020.8 - 2024.5 (expected)
 * **M.S. in Computer Science**, [Carnegie Mellon University](https://cs.cmu.edu), 2018.8-2019.12
 * **B.Eng. in Software Engineering**, [Nanjing University](https://www.nju.edu.cn), 2014.8-2018.6
 
