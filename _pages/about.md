@@ -10,15 +10,22 @@ redirect_from:
 
 About Me
 ------
-Hi! I am **Ansong Ni (倪安松)**, a third-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu) working with [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev) in the [LILY](https://yale-lily.github.io) lab. 
+Hi! I am **Ansong Ni (倪安松)**, a final-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu) working with [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
 Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu) and B.Eng. from [Nanjing University](https:ww.//nju.edu.cn) in China.
 
-I worked as a research intern at [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [Allen Institute for AI (AI2)](https://allenai.org) (Summer 2020), [Institute for Software Research at CMU](https://www.isri.cmu.edu/) (Spring 2020), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017). I will be interning at [Google Brain](https://research.google/teams/brain/) for Summer 2023.
+I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [Allen Institute for AI (AI2)](https://allenai.org) (Summer 2020), [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017).
+
+**I will be on the job market in Fall 2023 for industrial research labs & startups.**
 
 Research Interest
 ------
-I am generally interested in natural language processing and machine learning. My long-term research goal is to build a system that can <u>understand user intent and parse it into machine-executable form</u>. 
-Motivated by this goal, I am mainly interested in topics as program synthesis, semantic parsing, and neuro-symbolic methods. You can know more by referring to the publication list below. 
+My current research focus is **code generation using large language models (LLMs)**. More specifically, 
+I am intrigued by the abilities / applications enabled by LLMs trained on code, such as *procedure understanding and reasoning ([ICLR'23](https://arxiv.org/abs/2205.14318))*, *AI-assisted software development (ICSE'21, MSR'17)*, *tool use and robot control*. 
+I am also excited by the various learning problems posted by code LLMs, such as *learning from execution feedback (ICLR'23, ICML'23)*, *neuro-symbolic learning (ICLR'23)*, *(inter-)active learning (AAAI'20)*, *Transfer Learning (DL4C'23, ICML'23)*, *Multi-task Learning (EMNLP'22)*, etc.   
+
+Previously, I have also done research in more traditional NLP tasks, such as question answering (EMNLP'21) and text summarization (EMNLP'21, ACL'22, EMNLP'22). I also led the development of [SummerTime](https://github.com/Yale-LILY/SummerTime) (230+ stars) at Yale.
+
+For more details about my research, please refer to my publication list below.
  
 Selected Publications
 ------
@@ -55,6 +62,12 @@ The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'2
     [\[arxiv\]](https://arxiv.org/abs/2103.12235) 
     [\[code\]](https://github.com/niansong1996/retrieval_marginalization)
 
+* <u>Ansong Ni</u>, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, Tao Yu, Ahmed Hassan Awadallah, and Dragomir Radev*  
+**SummerTime: Text Summarization Toolkit for Non-experts**  
+The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP'21) Demo Track
+    [\[arxiv\]](https://arxiv.org/abs/2108.12738) 
+    [\[code\]](https://github.com/Yale-LILY/SummerTime) (230+ stars)
+
 * <u>Ansong Ni*</u>, Daniel Ramos\*, Aidan Yang, Ines Lynce, Vasco Manquinho, Ruben Martins, and Claire Le Goues  
 **SOAR: A Synthesis Approach for Data Science API Refactoring**  
 The 43th International Conference on Software Engineering (ICSE'21)  
@@ -82,6 +95,7 @@ Talks and Presentations
 Professional Services
 ------
 * **Program Committee/Reviewer** 
+  * ICLR 2024
   * ICML 2023
   * ACL 2023
   * NeurIPS 2022, 2023
@@ -93,6 +107,8 @@ Professional Services
 
 Work Experience
 ------
+* **Google DeepMind** -- Learning for Code Team, Summer 2023  
+    Research Intern. Hosts: [Pengcheng Yin](https://research.google/people/PengchengYin/) and [Charles Sutton](https://research.google/people/CharlesSutton/) 
 * **Meta AI** -- FAIR NLP Group, Summer 2022  
     Research Intern. Hosts: [Victoria Lin](http://victorialin.net/) and [Sida Wang](http://www.sidaw.xyz/) 
 * **Microsoft Research** -- Deep Learning Group,  Summer+Fall 2021  
@@ -113,8 +129,9 @@ Education
 Miscellaneous
 ------
 * My first name can be pronounce as-is: *[An-Song]*, last name is like *[Nee]*.
-* I know how to say "I don't speak [this language]" in eight different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi). Very handy, you should know them too.
-* My paper was once retweeted by Yann LeCun: [(link to tweet)](https://twitter.com/ylecun/status/1628383670921732098?s=20).
+* I was (and always will be) a student of the late [Dragomir Radev](http://www.cs.yale.edu/homes/radev), [here](https://x.com/AnsongNi/status/1641661325624352771?s=20) is my tribute to him.
+* I know how to say "I don't speak [this language]" in 9 different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi, Hebrew). Very handy, maybe you should know them too.
+[//]: # "* My paper was once retweeted by Yann LeCun: [(link to tweet)](https://twitter.com/ylecun/status/1628383670921732098?s=20)."
 * I love soccer and I am a Barcelona and Messi fan. I don't remember how Barca did in UCL 2018-2022 and don't remind me. My favorite games are: 
   * 2015 UCL final: Barca 3-1 Juventus
   * 2017 UCL round of 16: Barca 6-1 PSG (6-5 on agg.)
