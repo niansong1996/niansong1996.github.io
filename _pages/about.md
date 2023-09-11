@@ -13,7 +13,7 @@ About Me
 Hi! I am **Ansong Ni (倪安松)**, a final-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu) working with [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
 Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu) and B.Eng. from [Nanjing University](https:ww.//nju.edu.cn) in China.
 
-I worked as a research intern at **[Google DeepMind](https://www.deepmind.com/)** (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), **[Microsoft Research Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group)** (Summer 2021), **[Allen Institute for AI (AI2)](https://allenai.org)** (Summer 2020), **[Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)** (Summer, Fall 2017).
+I worked as a research intern at **[Google DeepMind](https://www.deepmind.com/)** (Summer 2023), **[Meta AI](https://www.facebook.com/MetaAI/)** (Summer 2022), **[MSR Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group)** (Summer 2021), **[AI2](https://allenai.org)** (Summer 2020), **[MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)** (Summer, Fall 2017).
 
 **I will be on the job market in Fall 2023 for industrial research labs & startups.**
 
