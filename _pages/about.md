@@ -15,7 +15,7 @@ Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science]
 
 I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [MSR Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [AI2](https://allenai.org) (Summer 2020), [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017).
 
-**I am on the job market in Spring 2024 for industrial research labs & startups. My expected graduation/start date is summer 2024.**
+**I am on the job market in spring 2024 for industrial research labs & startups. My expected graduation/start date is summer 2024.**
 
 Research Interest
 ------
@@ -89,9 +89,10 @@ The 34th AAAI Conference on Artificial Intelligence (AAAI'20)
 
 Talks and Presentations
 ------
-* **Foundation Models for Code and Math**, Dec 2023, Guest Lecture @ Yale CPSC 488/588 "AI Foundation Models"
+* **Foundation Models for Code and Math**, Dec 2023,   
+Guest Lecture @ Yale CPSC 488/588 "AI Foundation Models"
     [\[slides\]](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_Yale_488_guest_lecture.pdf)
-    [\[recordings\]](https://drive.google.com/file/d/1xFhqT5-cTodzyM_SXNFqR8I6fDN8FLOr/view?usp=drive_link)
+    [\[recordings\]](https://drive.google.com/file/d/1MI2Q34iSF_dFoYQSOzOaA8Hzgo1EA71d/view?usp=sharing)
 * **Enhancing Language Models for Program Synthesis using Execution**, Apr 2023, Invited Talk @ UT Austin TAUR Lab  
 * **Enhancing Language Models for Program Synthesis using Execution**, Mar 2023, Invited Talk @ HKUST CSE
     [\[recordings\]](https://hkust.zoom.us/rec/share/cjX9cs20nS7Tx6Hs140RMutst4lA7OTgL-YeNwkPrnHlqpfnPjeOTZFcbCNtlSsF.r3DyXZTBoCGGHXyR)
