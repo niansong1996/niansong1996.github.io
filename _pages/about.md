@@ -13,31 +13,30 @@ About Me
 Hi! I am **Ansong Ni (倪安松)**, a final-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu) working with [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
 Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu) and B.Eng. from [Nanjing University](https:ww.//nju.edu.cn) in China.
 
-I worked as a research intern at **[Google DeepMind](https://www.deepmind.com/)** (Summer 2023), **[Meta AI](https://www.facebook.com/MetaAI/)** (Summer 2022), **[MSR Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group)** (Summer 2021), **[AI2](https://allenai.org)** (Summer 2020), **[MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)** (Summer, Fall 2017).
+I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [MSR Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [AI2](https://allenai.org) (Summer 2020), [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017).
 
-**I will be on the job market starting fall 2023 for industrial research labs & startups.**
+**I am on the job market in Spring 2024 for industrial research labs & startups. My expected graduation/start date is summer 2024.**
 
 Research Interest
 ------
-My current research focus is **code generation using large language models (LLMs)**. More specifically, 
-I am intrigued by the abilities / applications enabled by LLMs trained on code, such as:
-* Procedure understanding and reasoning ([ICLR'23](https://arxiv.org/abs/2205.14318))
-* AI-assisted software development (ICSE'21, MSR'17)
-* Tool use and robot control 
+My current research focus is **code generation using large language models (LLMs)**. More specifically, I've done work in:
+* Enhancing code LLMs with execution feedback
+* Evaluation of code LLMs
+* Active/Transfer/Multi-task learning for coding tasks
 
-I am also excited by the various learning problems posted by code LLMs, such as: 
-* Learning from execution feedback (ICLR'23, ICML'23) 
-* Neuro-symbolic learning (ICLR'23)
-* (inter-)active learning (AAAI'20), Transfer Learning (DL4C'23, ICML'23), Multi-task Learning (EMNLP'22)*
-
-Previously, I have also done research in more traditional NLP tasks, such as question answering (EMNLP'21) and text summarization (EMNLP'21, ACL'22, EMNLP'22). I also led the development of [SummerTime](https://github.com/Yale-LILY/SummerTime) (230+ stars) at Yale.
+Previously, I have also done research in more traditional NLP tasks, such as question answering (EMNLP'21) and text summarization (EMNLP'21, ACL'22, EMNLP'22).
 
 For more details about my research, please refer to my publication list below.
  
-Selected Publications
+Selected Publications and Preprints
 ------
 **For a full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4IA1clAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Ansong-Ni/33981736).**   
 *(\* denotes equal contribution)*
+
+* <u>Ansong Ni</u>, Pengcheng Yin, Yilun Zhao, Martin Riddell, Troy Feng, Rui Shen, Stephen Yin, Ye Liu, Semih Yavuz, Caiming Xiong, Shafiq Joty, Yingbo Zhou, Dragomir Radev, and Arman Cohan  
+**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**  
+Preprint.  
+    [\[arxiv\]](https://arxiv.org/abs/2309.17446)
 
 * <u>Ansong Ni</u>, Srini Iyer, Dragomir Radev, Ves Stoyanov, Wen-tau Yih, Sida I. Wang, and Xi Victoria Lin  
 **LEVER: Learning to Verify Language-to-Code Generation with Execution**    
@@ -90,6 +89,9 @@ The 34th AAAI Conference on Artificial Intelligence (AAAI'20)
 
 Talks and Presentations
 ------
+* **Foundation Models for Code and Math**, Dec 2023, Guest Lecture @ Yale CPSC 488/588 "AI Foundation Models"
+    [\[slides\]](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_Yale_488_guest_lecture.pdf)
+    [\[recordings\]](https://drive.google.com/file/d/1xFhqT5-cTodzyM_SXNFqR8I6fDN8FLOr/view?usp=drive_link)
 * **Enhancing Language Models for Program Synthesis using Execution**, Apr 2023, Invited Talk @ UT Austin TAUR Lab  
 * **Enhancing Language Models for Program Synthesis using Execution**, Mar 2023, Invited Talk @ HKUST CSE
     [\[recordings\]](https://hkust.zoom.us/rec/share/cjX9cs20nS7Tx6Hs140RMutst4lA7OTgL-YeNwkPrnHlqpfnPjeOTZFcbCNtlSsF.r3DyXZTBoCGGHXyR)
@@ -142,4 +144,4 @@ Miscellaneous
   * 2015 UCL final: Barca 3-1 Juventus
   * 2017 UCL round of 16: Barca 6-1 PSG (6-5 on agg.)
   * 2022 WC final: Argentina 3-3 France (4-2 in pen.)
-* I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley, Pittsburgh, Houston, New Haven, and Menlo Park.
+* I am from Nanchang, Jiangxi Province in China. I've also lived in Nanjing, Beijing, Berkeley, Pittsburgh, Houston, New Haven, Menlo Park, and Sunnyvale.
