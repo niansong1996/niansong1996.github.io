@@ -10,21 +10,21 @@ redirect_from:
 
 About Me
 ------
-Hi! I am **Ansong Ni (倪安松)**, a final-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu) working with [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
+Hi! I am **Ansong Ni (倪安松)**, a final-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu), and my advisors are [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
 Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu) and B.Eng. from [Nanjing University](https:ww.//nju.edu.cn) in China.
 
 I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [MSR Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [AI2](https://allenai.org) (Summer 2020), [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017).
 
-**I am on the job market in spring 2024 for industrial research labs & startups. My expected graduation/start date is summer 2024.**
+**I am currently on the job market for industrial research labs & startups, and my expected graduation/start date is during summer 2024. You can obtain a copy of my CV [here](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_Ni-Yale-0221.pdf), and feel free to reach out.** 
 
 Research Interest
 ------
-My current research focus is **code generation using large language models (LLMs)**. More specifically, I've done work in:
-* Enhancing code LLMs with execution feedback
-* Evaluation of code LLMs
-* Active/Transfer/Multi-task learning for coding tasks
+I am generally interested in machine learning and natural language processing. My current research focus is **code generation using large language models (LLMs)**. More specifically, I've interested in these topics:
+* Enhancing code LLMs with program execution (neuro-symbolic methods)
+* Harmonizing natural language and code for planning, reasoning and interacting with humans
+* Synthesizing large-scale, high-quality data for training next-gen code LLMs
 
-Previously, I have also done research in more traditional NLP tasks, such as question answering (EMNLP'21) and text summarization (EMNLP'21, ACL'22, EMNLP'22).
+Previously, I have also done research in more traditional NLP tasks, as semantic parsing, question answering and text summarization.
 
 For more details about my research, please refer to my publication list below.
  
@@ -106,9 +106,10 @@ Professional Services
 ------
 * **Program Committee/Reviewer** 
   * ICLR 2024
-  * ICML 2023
-  * ACL 2023
+  * ICML 2023, 2024
   * NeurIPS 2022, 2023
+  * COLM 2024
+  * ACL 2023
   * EMNLP 2022
   * ACL Rolling Reviews (ARR) 2021-2022
   * DL4C Workshop @ ICLR 2023
@@ -132,7 +133,7 @@ Work Experience
 
 Education
 ------
-* **Ph.D. in Computer Science**, [Yale University](https://yale.edu), 2020.8 - 2024.5 (expected)
+* **Ph.D. in Computer Science**, [Yale University](https://yale.edu), 2020.8 - 2024.7 (expected)
 * **M.S. in Computer Science**, [Carnegie Mellon University](https://cs.cmu.edu), 2018.8-2019.12
 * **B.Eng. in Software Engineering**, [Nanjing University](https://www.nju.edu.cn), 2014.8-2018.6
 
