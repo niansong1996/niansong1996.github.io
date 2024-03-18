@@ -15,11 +15,11 @@ Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science]
 
 I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [MSR Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [AI2](https://allenai.org) (Summer 2020), [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017).
 
-**I am currently on the job market for industrial research labs & startups, and my expected graduation/start date is during summer 2024. You can obtain a copy of my CV [here](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_Ni-Yale-0221.pdf), and feel free to reach out.** 
+**I am currently on the job market for industrial research labs & startups, and my expected graduation/start date is July 2024. You can obtain a copy of my CV [here](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_Ni-Yale.pdf), and feel free to reach out.** 
 
 Research Interest
 ------
-I am generally interested in machine learning and natural language processing. My current research focus is **code generation using large language models (LLMs)**. More specifically, I've interested in these topics:
+I am generally interested in machine learning and natural language processing. My current research focus is on **teaching LLMs to write code and reason about program execution like human programmers**. More specifically, I've interested in these topics:
 * Enhancing code LLMs with program execution (neuro-symbolic methods)
 * Harmonizing natural language and code for planning, reasoning and interacting with humans
 * Synthesizing large-scale, high-quality data for training next-gen code LLMs
