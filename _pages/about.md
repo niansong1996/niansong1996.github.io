@@ -142,7 +142,7 @@ Miscellaneous
 * My first name can be pronounce as-is: *[An-Song]*, last name is like *[Nee]*.
 * A [tribute](https://x.com/AnsongNi/status/1641661325624352771?s=20) to my late advisor Drago.
 * I know how to say "I don't speak [this language]" in 9 different languages (Mandarin, English, Spanish, Cantonese, Italian, Greek, Korean, Hindi, Hebrew). Very handy, maybe you should know them too.
-* I love soccer and I am a Barcelona and Messi fan. I don't remember how Barca did in UCL 2018-2023 and don't remind me. My favorite games are: 
+* I love soccer and I am a Barcelona and Messi fan. I don't remember how Barca did in UCL 2018-2024 and don't remind me. My favorite games are: 
   * 2015 UCL final: Barca 3-1 Juventus
   * 2017 UCL round of 16: Barca 6-1 PSG (6-5 on agg.)
   * 2022 WC final: Argentina 3-3 France (4-2 in pen.)
