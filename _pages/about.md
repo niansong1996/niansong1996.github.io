@@ -19,10 +19,7 @@ I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (S
 
 Research Interest
 ------
-I am generally interested in machine learning and natural language processing. My current research focus is on **teaching LLMs to write code and reason about program execution like human programmers**. More specifically, I've interested in these topics:
-* Enhancing code LLMs with program execution (neuro-symbolic methods)
-* Harmonizing natural language and code for planning, reasoning and interacting with humans
-* Synthesizing large-scale, high-quality data for training next-gen code LLMs
+I teach large language models (LLMs) to solve complex tasks by reasoning in natural language and formal language (e.g., code). More recently, I'm interested in the domain of self-improving LLMs using synthetic data. 
 
 Previously, I have also done research in more traditional NLP tasks, as semantic parsing, question answering and text summarization.
 
@@ -32,6 +29,11 @@ Selected Publications and Preprints
 ------
 **For a full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=4IA1clAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Ansong-Ni/33981736).**   
 *(\* denotes equal contribution)*
+
+* <u>Ansong Ni</u>, Miltiadis Allamanis, Arman Cohan, Yinlin Deng, Kensen Shi, Charles Sutton, Pengcheng Yin  
+**NExT: Teaching Large Language Models to Reason about Code Execution**  
+Preprint.  
+    [\[arxiv\]](https://arxiv.org/abs/2404.14662)
 
 * <u>Ansong Ni</u>, Pengcheng Yin, Yilun Zhao, Martin Riddell, Troy Feng, Rui Shen, Stephen Yin, Ye Liu, Semih Yavuz, Caiming Xiong, Shafiq Joty, Yingbo Zhou, Dragomir Radev, and Arman Cohan  
 **L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**  
@@ -89,8 +91,8 @@ The 34th AAAI Conference on Artificial Intelligence (AAAI'20)
 
 Talks and Presentations
 ------
-* **Foundation Models for Code and Math**, Dec 2023,   
-Guest Lecture @ Yale CPSC 488/588 "AI Foundation Models"
+* **Foundation Models for Code and Math**, 
+Guest Lecture @ Yale CPSC 488/588 "AI Foundation Models", Dec 2023 | @ HKU "Natural Language Processing", Apr 2024  
     [\[slides\]](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_Yale_488_guest_lecture.pdf)
     [\[recordings\]](https://drive.google.com/file/d/1MI2Q34iSF_dFoYQSOzOaA8Hzgo1EA71d/view?usp=sharing)
 * **Enhancing Language Models for Program Synthesis using Execution**, Apr 2023, Invited Talk @ UT Austin TAUR Lab  
