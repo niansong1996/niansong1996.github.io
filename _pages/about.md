@@ -10,12 +10,10 @@ redirect_from:
 
 About Me
 ------
-Hi! I am **Ansong Ni (倪安松)**, a final-year Ph.D. student in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu), and my advisors are [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
+Hi! I am **Ansong Ni (倪安松)**, a Research Scientist at [Meta FAIR](https://ai.meta.com). Previously, I finished my PhD in the [Computer Science Department](https://cpsc.yale.edu) at [Yale University](https://yale.edu), advised by [Prof. Arman Cohan](https://armancohan.com/), and (the late) [Prof. Dragomir Radev](http://www.cs.yale.edu/homes/radev). 
 Prior to Yale, I obtained my M.S. in CS degree from [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu) and B.Eng. from [Nanjing University](https:ww.//nju.edu.cn) in China.
 
 I worked as a research intern at [Google DeepMind](https://www.deepmind.com/) (Summer 2023), [Meta AI](https://www.facebook.com/MetaAI/) (Summer 2022), [MSR Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group) (Summer 2021), [AI2](https://allenai.org) (Summer 2020), [MSR Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (Summer, Fall 2017).
-
-**I am currently on the job market for industrial research labs & startups, and my expected graduation/start date is July 2024. You can obtain a copy of my CV [here](https://github.com/niansong1996/niansong1996.github.io/tree/master/files/Ansong_Ni-Yale.pdf), and feel free to reach out.** 
 
 Research Interest
 ------
@@ -109,9 +107,9 @@ Professional Services
 * **Program Committee/Reviewer** 
   * ICLR 2024
   * ICML 2023, 2024
-  * NeurIPS 2022, 2023
+  * NeurIPS 2022, 2023, 2024
   * COLM 2024
-  * ACL 2023
+  * ACL 2023, 2024
   * EMNLP 2022
   * ACL Rolling Reviews (ARR) 2021-2022
   * DL4C Workshop @ ICLR 2023
@@ -120,6 +118,8 @@ Professional Services
 
 Work Experience
 ------
+* **Meta AI** -- FAIR, 2024 - Now
+    Research Scientist.  
 * **Google DeepMind** -- Learning for Code Team, Summer 2023  
     Research Intern. Hosts: [Pengcheng Yin](https://research.google/people/PengchengYin/) and [Charles Sutton](https://research.google/people/CharlesSutton/) 
 * **Meta AI** -- FAIR NLP Group, Summer 2022  
@@ -135,7 +135,7 @@ Work Experience
 
 Education
 ------
-* **Ph.D. in Computer Science**, [Yale University](https://yale.edu), 2020.8 - 2024.7 (expected)
+* **Ph.D. in Computer Science**, [Yale University](https://yale.edu), 2020.8 - 2024.6  
 * **M.S. in Computer Science**, [Carnegie Mellon University](https://cs.cmu.edu), 2018.8-2019.12
 * **B.Eng. in Software Engineering**, [Nanjing University](https://www.nju.edu.cn), 2014.8-2018.6
 
